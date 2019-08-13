@@ -3,11 +3,11 @@ const config = {
   port: 3000,
   // 数据库配置
   database: {
-    HOST: 'localhost',
+    HOST: '139.199.204.30',
     PORT: '3306',
     USERNAME: 'root',
-    PASSWORD: '123456',
-    DATABASE: 'nodesql',
+    PASSWORD: 'w+*mysql',
+    DATABASE: 'koa2blog',
   }
 }
 
